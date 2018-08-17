@@ -1,6 +1,6 @@
 # flutter_bottom_navigation
 
-A new Flutter application.
+参考: https://willowtreeapps.com/ideas/how-to-use-flutter-to-build-an-app-with-bottom-navigation
 
 ## Getting Started
 
